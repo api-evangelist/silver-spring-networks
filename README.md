@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Silver Spring Networks * is a company surfaced as a portfolio company of gv and added to the API Evangelist network as a stub for enrichment. Sector: enterprise. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: gv
+Silver Spring Networks was a smart-grid, smart-city, and IoT networking company that built wireless canopy networks and the SLV/Data Platform for utilities, offering RESTful Data Platform APIs (device registration, device metadata, sensor data, and webhook event notifications) plus an SDK on its developer portal at developer.ssni.com. Itron completed its acquisition of the company in January 2018 for approximately USD 830 million and rebranded it Itron Networked Solutions; the standalone ssni.com and developer.ssni.com properties are now offline. Enrichment pass 2026-07-21 found no live API surface: all legacy domains fail to resolve and the historical developer portal is no longer reachable.
+
+**Areas:** Company · Enterprise · Smart Grid · Smart City · IoT · Energy · Utilities · Networking · Acquired · Defunct
+
+## Silver Spring Networks * on APIs.io (historical record)
+
+Everything profiled for Silver Spring Networks * is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/silver-spring-networks/](https://apis.io/providers/silver-spring-networks/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Silver Spring Networks *: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/silver-spring-networks/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
